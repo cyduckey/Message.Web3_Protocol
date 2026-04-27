@@ -1,2 +1,2 @@
-# Criyo.AI
-Criyo AI – A Brand New Beginning of the Artificial Intelligence Era
+# Web3 Messenger
+IventZa's introduction to encrypted messaging without middleman.
